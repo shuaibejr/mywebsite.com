@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(153, 131, 134);
+}
+h1,h2{
+    color: rgb(7, 22, 229);
+}
+
+nav{
+    text-align: center;
+}
+
+
+img{
+    float: center;
+}
+
+ h1, p {
+    text-align: center;
+}
+
